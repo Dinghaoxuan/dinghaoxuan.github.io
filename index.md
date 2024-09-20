@@ -32,6 +32,11 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 <br>arXiv preprint, arXiv:2401.06374v1, 2024. (Under Review)
 <br>\[[PDF](https://arxiv.org/abs/2401.06374)\]
 
+- **A Training-Free Framework for Video License Plate Tracking and Recognition with Only One-Shot** 
+<br>**Haoxuan Ding**, Qi Wang\*, Junyu Gao, and Qiang Li
+<br>arXiv preprint, arXiv:2408.05729v1, 2024. (Under Review)
+<br>\[[PDF](https://arxiv.org/abs/2408.05729v1)\]
+
 - **The CLIP Model is Secretly an Image-to-Prompt Converter** 
 <br>Yuxuan Ding, Chunna Tian\*, **Haoxuan Ding**, and Lingqiao Liu\*
 <br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023.
