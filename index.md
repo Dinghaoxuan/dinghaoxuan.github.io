@@ -42,12 +42,12 @@ I am currently an PhD Candidate at the Unmanned System Research Institute, North
 <br>Advances in Neural Information Processing Systems (**NeurIPS**), accepted, 2023.
 <br>\[[PDF](https://arxiv.org/abs/2305.12716)\]
 
-- **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for image-to-image translation** 
+- **URCA-GAN: UpSample Residual Channel-wise Attention Generative Adversarial Network for Image-to-Image Translation** 
 <br>Xuan Nie, **Haoxuan Ding\***, Manhua Qi, Yifei Wang, and Edwrad K. Wong
 <br>Neurocomputing, vol. 443, no. 1, pp. 75-84, 2021.
 <br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S0925231221003106)\]
 
-- **GiGAN: Gate in GAN, could gate mechanism filter the features in image-to-image translation?** 
+- **GiGAN: Gate in GAN, Could Gate Mechanism Filter the Features in Image-to-Image Translation?** 
 <br>Xuan Nie, Jianchao Jia, **Haoxuan Ding\***, and Edwrad K. Wong
 <br>Neurocomputing, vol. 462, no. 1, pp. 376-388, 2021.
 <br>\[[PDF](https://www.sciencedirect.com/science/article/pii/S092523122101167X)\]
